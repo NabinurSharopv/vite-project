@@ -1,0 +1,9 @@
+@import "tailwindcss";  
+
+body {
+  font-family: 'Museo Sans', sans-serif;
+}
+
+l.{
+  justify-content: space-around;
+}
